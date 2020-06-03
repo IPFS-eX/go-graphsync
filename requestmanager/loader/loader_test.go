@@ -10,12 +10,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ipfs/go-graphsync"
-	"github.com/ipfs/go-graphsync/ipldbridge"
-	"github.com/ipfs/go-graphsync/requestmanager/types"
+	"github.com/IPFS-eX/go-graphsync"
+	"github.com/IPFS-eX/go-graphsync/ipldbridge"
+	"github.com/IPFS-eX/go-graphsync/requestmanager/types"
 
-	"github.com/ipfs/go-graphsync/testbridge"
-	"github.com/ipfs/go-graphsync/testutil"
+	"github.com/IPFS-eX/go-graphsync/testbridge"
+	"github.com/IPFS-eX/go-graphsync/testutil"
 	"github.com/ipld/go-ipld-prime"
 )
 

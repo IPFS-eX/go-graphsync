@@ -6,7 +6,7 @@ import (
 	"io"
 	"sync"
 
-	"github.com/ipfs/go-graphsync/ipldbridge"
+	"github.com/IPFS-eX/go-graphsync/ipldbridge"
 	ipld "github.com/ipld/go-ipld-prime"
 )
 

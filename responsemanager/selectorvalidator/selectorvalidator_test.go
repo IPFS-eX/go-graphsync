@@ -6,7 +6,7 @@ import (
 	ipld "github.com/ipld/go-ipld-prime"
 	ipldfree "github.com/ipld/go-ipld-prime/impl/free"
 
-	"github.com/ipfs/go-graphsync/ipldbridge"
+	"github.com/IPFS-eX/go-graphsync/ipldbridge"
 	"github.com/ipld/go-ipld-prime/traversal/selector"
 	"github.com/ipld/go-ipld-prime/traversal/selector/builder"
 )

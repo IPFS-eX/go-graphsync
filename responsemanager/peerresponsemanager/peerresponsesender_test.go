@@ -8,12 +8,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ipfs/go-graphsync"
-	"github.com/ipfs/go-graphsync/testbridge"
+	"github.com/IPFS-eX/go-graphsync"
+	"github.com/IPFS-eX/go-graphsync/testbridge"
 
 	blocks "github.com/ipfs/go-block-format"
-	gsmsg "github.com/ipfs/go-graphsync/message"
-	"github.com/ipfs/go-graphsync/testutil"
+	gsmsg "github.com/IPFS-eX/go-graphsync/message"
+	"github.com/IPFS-eX/go-graphsync/testutil"
 	"github.com/ipld/go-ipld-prime"
 	cidlink "github.com/ipld/go-ipld-prime/linking/cid"
 	"github.com/libp2p/go-libp2p-core/peer"

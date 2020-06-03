@@ -7,7 +7,7 @@ import (
 	"time"
 
 	ggio "github.com/gogo/protobuf/io"
-	gsmsg "github.com/ipfs/go-graphsync/message"
+	gsmsg "github.com/IPFS-eX/go-graphsync/message"
 	logging "github.com/ipfs/go-log"
 	"github.com/libp2p/go-libp2p-core/helpers"
 	"github.com/libp2p/go-libp2p-core/host"

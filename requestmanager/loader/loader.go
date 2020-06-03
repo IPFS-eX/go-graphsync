@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/ipfs/go-graphsync"
-	"github.com/ipfs/go-graphsync/ipldbridge"
-	"github.com/ipfs/go-graphsync/requestmanager/types"
+	"github.com/IPFS-eX/go-graphsync"
+	"github.com/IPFS-eX/go-graphsync/ipldbridge"
+	"github.com/IPFS-eX/go-graphsync/requestmanager/types"
 	ipld "github.com/ipld/go-ipld-prime"
 )
 

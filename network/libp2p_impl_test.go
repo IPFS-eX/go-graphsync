@@ -7,9 +7,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ipfs/go-graphsync"
-	gsmsg "github.com/ipfs/go-graphsync/message"
-	"github.com/ipfs/go-graphsync/testutil"
+	"github.com/IPFS-eX/go-graphsync"
+	gsmsg "github.com/IPFS-eX/go-graphsync/message"
+	"github.com/IPFS-eX/go-graphsync/testutil"
 	"github.com/libp2p/go-libp2p-core/peer"
 	mocknet "github.com/libp2p/go-libp2p/p2p/net/mock"
 )

@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"io"
 
-	"github.com/ipfs/go-graphsync"
-	"github.com/ipfs/go-graphsync/ipldbridge"
+	"github.com/IPFS-eX/go-graphsync"
+	"github.com/IPFS-eX/go-graphsync/ipldbridge"
 	ipld "github.com/ipld/go-ipld-prime"
 )
 

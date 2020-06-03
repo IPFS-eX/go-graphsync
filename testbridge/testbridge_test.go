@@ -15,8 +15,8 @@ import (
 	"github.com/ipld/go-ipld-prime"
 
 	"github.com/ipfs/go-cid"
-	"github.com/ipfs/go-graphsync/ipldbridge"
-	"github.com/ipfs/go-graphsync/testutil"
+	"github.com/IPFS-eX/go-graphsync/ipldbridge"
+	"github.com/IPFS-eX/go-graphsync/testutil"
 )
 
 func TestSelectorTraversal(t *testing.T) {

@@ -9,11 +9,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ipfs/go-graphsync"
-	"github.com/ipfs/go-graphsync/testutil"
+	"github.com/IPFS-eX/go-graphsync"
+	"github.com/IPFS-eX/go-graphsync/testutil"
 
-	gsmsg "github.com/ipfs/go-graphsync/message"
-	gsnet "github.com/ipfs/go-graphsync/network"
+	gsmsg "github.com/IPFS-eX/go-graphsync/message"
+	gsnet "github.com/IPFS-eX/go-graphsync/network"
 
 	"github.com/libp2p/go-libp2p-core/peer"
 )

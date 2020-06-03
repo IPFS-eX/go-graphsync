@@ -6,12 +6,12 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/ipfs/go-graphsync/ipldbridge"
+	"github.com/IPFS-eX/go-graphsync/ipldbridge"
 
 	"github.com/ipld/go-ipld-prime"
 
-	"github.com/ipfs/go-graphsync/testbridge"
-	"github.com/ipfs/go-graphsync/testutil"
+	"github.com/IPFS-eX/go-graphsync/testbridge"
+	"github.com/IPFS-eX/go-graphsync/testutil"
 
 	"github.com/ipld/go-ipld-prime/linking/cid"
 )

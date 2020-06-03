@@ -5,7 +5,7 @@ import (
 
 	"github.com/ipfs/go-block-format"
 
-	gsmsg "github.com/ipfs/go-graphsync/message"
+	gsmsg "github.com/IPFS-eX/go-graphsync/message"
 	"github.com/libp2p/go-libp2p-core/peer"
 )
 

@@ -7,10 +7,10 @@ import (
 	"testing"
 
 	blocks "github.com/ipfs/go-block-format"
-	"github.com/ipfs/go-graphsync"
+	"github.com/IPFS-eX/go-graphsync"
 
 	cid "github.com/ipfs/go-cid"
-	"github.com/ipfs/go-graphsync/testutil"
+	"github.com/IPFS-eX/go-graphsync/testutil"
 )
 
 func TestAppendingRequests(t *testing.T) {

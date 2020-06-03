@@ -7,7 +7,7 @@ import (
 
 	"github.com/ipfs/go-block-format"
 
-	ipldbridge "github.com/ipfs/go-graphsync/ipldbridge"
+	ipldbridge "github.com/IPFS-eX/go-graphsync/ipldbridge"
 	ipld "github.com/ipld/go-ipld-prime"
 	cidlink "github.com/ipld/go-ipld-prime/linking/cid"
 )

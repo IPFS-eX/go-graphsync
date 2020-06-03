@@ -2,7 +2,7 @@ package testbridge
 
 import (
 	cid "github.com/ipfs/go-cid"
-	ipldbridge "github.com/ipfs/go-graphsync/ipldbridge"
+	ipldbridge "github.com/IPFS-eX/go-graphsync/ipldbridge"
 	ipld "github.com/ipld/go-ipld-prime"
 )
 

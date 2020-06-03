@@ -4,12 +4,12 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/ipfs/go-graphsync"
-	"github.com/ipfs/go-graphsync/metadata"
+	"github.com/IPFS-eX/go-graphsync"
+	"github.com/IPFS-eX/go-graphsync/metadata"
 	logging "github.com/ipfs/go-log"
 
 	blocks "github.com/ipfs/go-block-format"
-	"github.com/ipfs/go-graphsync/linktracker"
+	"github.com/IPFS-eX/go-graphsync/linktracker"
 	"github.com/ipld/go-ipld-prime"
 	cidlink "github.com/ipld/go-ipld-prime/linking/cid"
 )

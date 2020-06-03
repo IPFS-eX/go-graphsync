@@ -11,7 +11,7 @@ import (
 	ipld "github.com/ipld/go-ipld-prime"
 	cidlink "github.com/ipld/go-ipld-prime/linking/cid"
 
-	"github.com/ipfs/go-graphsync/testutil"
+	"github.com/IPFS-eX/go-graphsync/testutil"
 )
 
 func TestLoader(t *testing.T) {

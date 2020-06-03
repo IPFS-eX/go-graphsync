@@ -9,12 +9,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ipfs/go-graphsync"
-	"github.com/ipfs/go-graphsync/ipldbridge"
-	"github.com/ipfs/go-graphsync/requestmanager/types"
+	"github.com/IPFS-eX/go-graphsync"
+	"github.com/IPFS-eX/go-graphsync/ipldbridge"
+	"github.com/IPFS-eX/go-graphsync/requestmanager/types"
 	"github.com/libp2p/go-libp2p-core/peer"
 
-	"github.com/ipfs/go-graphsync/metadata"
+	"github.com/IPFS-eX/go-graphsync/metadata"
 
 	cidlink "github.com/ipld/go-ipld-prime/linking/cid"
 
@@ -22,9 +22,9 @@ import (
 
 	blocks "github.com/ipfs/go-block-format"
 	cid "github.com/ipfs/go-cid"
-	gsmsg "github.com/ipfs/go-graphsync/message"
-	"github.com/ipfs/go-graphsync/testbridge"
-	"github.com/ipfs/go-graphsync/testutil"
+	gsmsg "github.com/IPFS-eX/go-graphsync/message"
+	"github.com/IPFS-eX/go-graphsync/testbridge"
+	"github.com/IPFS-eX/go-graphsync/testutil"
 )
 
 type requestRecord struct {

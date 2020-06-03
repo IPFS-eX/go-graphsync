@@ -3,10 +3,10 @@ package requestmanager
 import (
 	"context"
 
-	"github.com/ipfs/go-graphsync"
-	"github.com/ipfs/go-graphsync/ipldbridge"
-	gsmsg "github.com/ipfs/go-graphsync/message"
-	"github.com/ipfs/go-graphsync/metadata"
+	"github.com/IPFS-eX/go-graphsync"
+	"github.com/IPFS-eX/go-graphsync/ipldbridge"
+	gsmsg "github.com/IPFS-eX/go-graphsync/message"
+	"github.com/IPFS-eX/go-graphsync/metadata"
 	ipld "github.com/ipld/go-ipld-prime"
 )
 

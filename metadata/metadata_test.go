@@ -5,11 +5,11 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/ipfs/go-graphsync/testbridge"
+	"github.com/IPFS-eX/go-graphsync/testbridge"
 
 	"github.com/ipld/go-ipld-prime/linking/cid"
 
-	"github.com/ipfs/go-graphsync/testutil"
+	"github.com/IPFS-eX/go-graphsync/testutil"
 )
 
 func TestDecodeEncodeMetadata(t *testing.T) {

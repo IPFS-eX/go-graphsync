@@ -5,11 +5,11 @@ import (
 	"io"
 
 	blocks "github.com/ipfs/go-block-format"
-	"github.com/ipfs/go-graphsync"
+	"github.com/IPFS-eX/go-graphsync"
 
 	ggio "github.com/gogo/protobuf/io"
 	cid "github.com/ipfs/go-cid"
-	pb "github.com/ipfs/go-graphsync/message/pb"
+	pb "github.com/IPFS-eX/go-graphsync/message/pb"
 	"github.com/libp2p/go-libp2p-core/network"
 )
 

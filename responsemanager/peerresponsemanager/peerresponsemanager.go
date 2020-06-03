@@ -3,7 +3,7 @@ package peerresponsemanager
 import (
 	"context"
 
-	"github.com/ipfs/go-graphsync/peermanager"
+	"github.com/IPFS-eX/go-graphsync/peermanager"
 	"github.com/libp2p/go-libp2p-core/peer"
 )
 

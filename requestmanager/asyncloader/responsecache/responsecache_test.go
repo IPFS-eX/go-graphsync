@@ -7,10 +7,10 @@ import (
 	"testing"
 
 	blocks "github.com/ipfs/go-block-format"
-	"github.com/ipfs/go-graphsync"
+	"github.com/IPFS-eX/go-graphsync"
 
-	"github.com/ipfs/go-graphsync/metadata"
-	"github.com/ipfs/go-graphsync/testutil"
+	"github.com/IPFS-eX/go-graphsync/metadata"
+	"github.com/IPFS-eX/go-graphsync/testutil"
 	cidlink "github.com/ipld/go-ipld-prime/linking/cid"
 
 	ipld "github.com/ipld/go-ipld-prime"

@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	ipldbridge "github.com/ipfs/go-graphsync/ipldbridge"
+	ipldbridge "github.com/IPFS-eX/go-graphsync/ipldbridge"
 	ipld "github.com/ipld/go-ipld-prime"
 )
 

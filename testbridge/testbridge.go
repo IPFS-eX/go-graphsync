@@ -8,7 +8,7 @@ import (
 	"io"
 
 	cid "github.com/ipfs/go-cid"
-	ipldbridge "github.com/ipfs/go-graphsync/ipldbridge"
+	ipldbridge "github.com/IPFS-eX/go-graphsync/ipldbridge"
 	ipld "github.com/ipld/go-ipld-prime"
 	"github.com/ipld/go-ipld-prime/encoding/dagjson"
 	free "github.com/ipld/go-ipld-prime/impl/free"

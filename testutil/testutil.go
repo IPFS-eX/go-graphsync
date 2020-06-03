@@ -7,7 +7,7 @@ import (
 
 	blocks "github.com/ipfs/go-block-format"
 	cid "github.com/ipfs/go-cid"
-	"github.com/ipfs/go-graphsync"
+	"github.com/IPFS-eX/go-graphsync"
 	blocksutil "github.com/ipfs/go-ipfs-blocksutil"
 	random "github.com/jbenet/go-random"
 	"github.com/libp2p/go-libp2p-core/peer"

@@ -7,8 +7,8 @@ import (
 
 	blocks "github.com/ipfs/go-block-format"
 
-	gsmsg "github.com/ipfs/go-graphsync/message"
-	gsnet "github.com/ipfs/go-graphsync/network"
+	gsmsg "github.com/IPFS-eX/go-graphsync/message"
+	gsnet "github.com/IPFS-eX/go-graphsync/network"
 	logging "github.com/ipfs/go-log"
 	"github.com/libp2p/go-libp2p-core/peer"
 )

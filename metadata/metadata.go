@@ -1,7 +1,7 @@
 package metadata
 
 import (
-	"github.com/ipfs/go-graphsync/ipldbridge"
+	"github.com/IPFS-eX/go-graphsync/ipldbridge"
 	"github.com/ipld/go-ipld-prime"
 	"github.com/ipld/go-ipld-prime/fluent"
 	ipldfree "github.com/ipld/go-ipld-prime/impl/free"

@@ -6,11 +6,11 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/ipfs/go-graphsync"
-	gsmsg "github.com/ipfs/go-graphsync/message"
-	"github.com/ipfs/go-graphsync/metadata"
-	"github.com/ipfs/go-graphsync/testbridge"
-	"github.com/ipfs/go-graphsync/testutil"
+	"github.com/IPFS-eX/go-graphsync"
+	gsmsg "github.com/IPFS-eX/go-graphsync/message"
+	"github.com/IPFS-eX/go-graphsync/metadata"
+	"github.com/IPFS-eX/go-graphsync/testbridge"
+	"github.com/IPFS-eX/go-graphsync/testutil"
 	"github.com/ipld/go-ipld-prime"
 	cidlink "github.com/ipld/go-ipld-prime/linking/cid"
 )
